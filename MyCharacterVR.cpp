@@ -29,6 +29,6 @@ void AMyCharacterVR::Tick(float DeltaTime)
 void AMyCharacterVR::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
-	//test
+	//test 123
 }
 
